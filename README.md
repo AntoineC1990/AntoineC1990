@@ -6,8 +6,7 @@ I want to become a dry scientist!
 I'll used this page to expose my dry work to critics & remarks.   
 Please don't hesitate to help me improve my code!
 
-For the moment, I only display my Rmarkdown report. This report allow me to display image channels & explore corresponding numerical values.  
-Work in progress...
+I'm currently setting up my git...
 
 <!---
 AntoineC1990/AntoineC1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
