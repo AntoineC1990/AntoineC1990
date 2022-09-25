@@ -1,6 +1,6 @@
 This page acts as a CV extension as well as a version control tool for my dry work.
 
-# ${\color{red}{Ab}out~me}$
+# ${\color{red}{Ab}}$out me
 
 Hi, I'm @AntoineC1990 a **wet-lab molecular biologist**.\
 My job is to translate fundamental or practical questions into life science experimental setup.\
