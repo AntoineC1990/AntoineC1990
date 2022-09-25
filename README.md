@@ -1,6 +1,6 @@
 This page acts as a CV extension as well as a version control tool for my dry work.
 
-# ${\color{red}{Ab}}$out me
+# ${\color{red}{Ab}{out}}$ me
 
 Hi, I'm @AntoineC1990 a **wet-lab molecular biologist**.\
 My job is to translate fundamental or practical questions into life science experimental setup.\
@@ -27,7 +27,7 @@ The animation below represents the main function of the ijm macro. Quickly: Whit
 You can find Export_Rmarkdown.Rmd, a readme and a html result example [here](https://github.com/AntoineC1990/Version_Rmarkdown-results).\
 The animation below represents few part of the html report. Quickly: Channel images, ROI quality controls, dynamic plots for all channels, acquisition time-dependent signal controls.
 
-![](./images/previewRmarkdown.gif){width=50%}
+![](./images/previewRmarkdown.gif)
 
 
 <!---
